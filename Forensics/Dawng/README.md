@@ -6,5 +6,5 @@ To verify if it is true, we are going to check this information with the followe
 
 ```shell
 file wrong.png
-wrong.png: data
+	wrong.png: data
 ```
