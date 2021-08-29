@@ -107,7 +107,7 @@ Thanks to the research on the PNG file format, we have found that the IHDR chunk
 
 ![image info](../../Images/third.png)
 
-The byte that we have to modify is the second (the height). Here, we have a height of `288` which is equal to `0x120. We will put a height of `400`, so in hexadecimal `0x190`.
+The byte that we have to modify is the second (the height). Here, we have a height of `288` which is equal to `0x120`. We will put a height of `400`, so in hexadecimal `0x190`.
 
 We check the integrity another time:
 ```shell
