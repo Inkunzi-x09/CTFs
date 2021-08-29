@@ -18,4 +18,4 @@ So, I write :
 ```shell
 ghex wrong.png
 ```
-![alt text](/Users/lucasgarciarota/Desktop/first.png)
+![image info](../../Images/first.png)
