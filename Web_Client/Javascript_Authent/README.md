@@ -1,4 +1,4 @@
-# HTML - Desactivated buttons
+# Javascript - Authentication
 
 At the beginning of this challenge, we are on a webpage with a simple form.
 
